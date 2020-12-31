@@ -11,9 +11,9 @@ id = 721857311655723059
 messages = joined = 0
 dic = {"Leeds#0925": 1}
 
-token = "NzIxODU2NDY3Mzk2ODUzODUz.Xubalw.USaE4n2W1J4Sz_Xh2XDttTHwvu8"
+token = ""
 client = commands.Bot(command_prefix='.')
-os.chdir(r'C:\Users\Jack\PycharmProjects\Discord Tutorial') #for pushing to git
+os.chdir(r'') #for pushing to git
 
 
 @client.event
